@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'marty-suzuki' => 's1180183@gmail.com' }
-  s.source           = { :git => 'https://gitlab.cc.naumen.ru/chat/thirdparty/reverseextension.git', :tag => '0.6.0' }
+  s.source           = { :git => 'https://github.com/nauphone/ReverseExtension.git', :tag => '0.6.0' }
   s.social_media_url = 'https://twitter.com/marty_suzuki'
 
   s.ios.deployment_target = '8.0'
